@@ -5,4 +5,4 @@ https://arxiv.org/abs/1703.10135
 
 or our term project report.
 
-We implemented this model while taking a Deep Learning Course 2019.
+We implemented this model while taking a Deep Learning Course 2019. We got some datasets and utils from the other repositories which had been implemented the model before. 
